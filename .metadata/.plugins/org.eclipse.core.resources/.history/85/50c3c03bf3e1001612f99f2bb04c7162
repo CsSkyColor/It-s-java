@@ -1,0 +1,17 @@
+import chapter03.*;
+
+public class RunProblem {
+	
+	public static void main(String [] args){
+		
+		//chapter3
+		Exercise0302 ex0302 = new Exercise0302();
+		ex0302.startEx();
+		Exercise0303 ex0303 = new Exercise0303();
+		ex0303.startEx();
+		Exercise0304 ex0304 = new Exercise0304();
+		ex0304.startEx();
+		Exercise0305 ex0305 = new Exercise0305();
+		ex0305.startEx();
+	}
+}

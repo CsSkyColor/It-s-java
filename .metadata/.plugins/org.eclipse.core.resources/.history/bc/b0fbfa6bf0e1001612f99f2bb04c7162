@@ -1,0 +1,9 @@
+import chapter03.*;
+
+public class RunProblem {
+	
+	public static void main(String [] args){
+		Exercise0302 ex0302 = new Exercise0302();
+		ex0302.startEx();
+	}
+}
